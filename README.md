@@ -1,3 +1,11 @@
+# PROJECT
+
+This project is a personal website.
+
+# CREDIT
+
+Thanks to Javascript Mastery for the knowledge and EGATOR for the design.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
